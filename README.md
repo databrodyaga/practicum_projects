@@ -5,7 +5,7 @@
 В данном разделе размещены проекты, выполненные в рамках прохождения курса Data Science Яндекс Практикума.
 Программа курса  ([ссылка на программу](https://code.s3.yandex.net/data-scientist/%D1%81%D0%B8%D0%BB%D0%BB%D0%B0%D0%B1%D1%83%D1%81/131120_Syllabus_%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82_%D0%BF%D0%BE_Data_Science.pdf)) включала 15 спринтов, которые заканчивались самостоятельными проектами (самих спринтов больше, как видно из программы - но не все они заканчивались проектами).
 
-Проекты представлены по следующим темам и разнесены по двум папкам на русском и английском языках (RUS и EN соответственно):
+Проекты представлены по следующим темам и разнесены по двум папкам на русском и английском языках (RU и EN соответственно):
 
 1. Базовый Python
 2. Предобработка данных
@@ -29,7 +29,7 @@
 
 In this section, you can find the projects completed as part of the Yandex Practicum Data Science course. The course program ([link to the program, rus](https://code.s3.yandex.net/data-scientist/%D1%81%D0%B8%D0%BB%D0%BB%D0%B0%D0%B1%D1%83%D1%81/131120_Syllabus_%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82_%D0%BF%D0%BE_Data_Science.pdf)) included 15 sprints, each ending with an independent project (though the program shows more sprints, not all of them concluded with projects).
 
-The projects are categorized by the following topics and divided into two folders in Russian and English (RUS and EN, respectively):
+The projects are categorized by the following topics and divided into two folders in Russian and English (RU and EN, respectively):
 
 1. Basic Python
 2. Data Preprocessing
